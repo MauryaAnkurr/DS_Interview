@@ -1,0 +1,42 @@
+
+Doordash Machine Learning Data Scientist Interview 
+Round 1: Take home assignment
+Given a dataset, build a machine learning model to predict food delivery time in different time buckets: < 10 mins, 10–30 mins, > 30 mins.
+
+
+Doordash Machine Learning Data Data Scientist Virtual Onsite Interview:
+Round 1: behavioral questions and product sense
+Why Doordash?
+What do you think is the main reason a Doordash driver failed to deliver a complete order, e.g., a customer ordered three tacos, but only two were delivered.
+How can we solve the missing food item issue and help improve customer experience?
+
+
+Round 2: machine learning case study
+
+How do we build a machine learning system to forecast demand?
+How do we keep improving the system?
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Round 3. product sense: AB testing
+
+Give me three metrics to evaluate our food delivery time forecasting model.
+How do we evaluate and compare a new food delivery time forecasting ML model vs. the existing one?
+What are the potential issues if we run an AB testing on the new and current model?
+Based on the AB testing result, how do you decide whether to launch the new model or not?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Round 4: product sense: metrics
+How do you measure driver and food delivery experience?
+How to improve driver response rate?
+How can we get more drivers to join Doordash?
